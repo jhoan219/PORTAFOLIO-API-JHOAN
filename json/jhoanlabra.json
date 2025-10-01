@@ -1,13 +1,13 @@
 {
   "profile": {
     "id": 0,
-    "name": "Elivelton Jhoan Labra Lopez",
+    "name": "Jhoan Labra Lopez",
     "shortName": "Jhoan Labra",
     "slogan": "Egresado de Computacion e Informatica.",
     "user": "jhoan219",
     "title": "👨‍💻Desarrollador👨‍💻 | 🌌Frontend🌌 | ⚛React⚛ | 💻Egresado💻",
     "mainStack": "React, JS, CSS, HTML",
-    "description": "Desarrollador Web Frontend con la biblioteca React. Egresado en Computacion e Informatica. Apasionado del autoaprendizaje y del código limpio.",
+    "description": "Desarrollador Web Frontend con la biblioteca React. Egresado en Computación e informática en Cibertec, apasionado en análisis y programación, cuento con experiencia en logística, comprometido con el trabajo, con capacidad para trabajar en equipo y adaptarme a entornos dinámicos, con capacidad de análisis y resolución de problemas. Busco seguir creciendo profesionalmente y desarrollar mis habilidades.. Apasionado del autoaprendizaje y del código limpio.",
     "urlPhoto": "https://i.postimg.cc/cCWdKkkk/dev.jpg",
     "urlLinkedin": "https://www.linkedin.com/in/jhoan-labra-lopez-16587b214/",
     "urlCv": "https://drive.google.com/file/d/1WVIT_1ipSfNXEwNf2A4fpj9e5b4ESSTv/view?usp=sharing"
@@ -54,7 +54,7 @@
       "main": 0
     },
      {
-      "id": 0,
+      "id": 1,
       "company": "Promart Homecenter",
       "position": "Gestor de Almacén",
       "period": "Enero 2024, Abril 2025",
@@ -162,7 +162,7 @@
     },
     {
       "id": 7,
-      "name": "ERP SAP",
+      "name": "Sistema ERP SAP",
       "core": "Tecnologías",
       "percentage": 70,
       "level": "Básico",
@@ -174,7 +174,7 @@
       "core": "Backend",
       "percentage": 50,
       "level": "Intermedio",
-      "main": 0
+      "main": 1
     },
     {
       "id": 9,
@@ -182,7 +182,7 @@
       "core": "Backend",
       "percentage": 40,
       "level": "Intermedio",
-      "main": 1
+      "main": 0
     },
     {
       "id": 10,
@@ -206,7 +206,7 @@
       "core": "Base de datos",
       "percentage": 50,
       "level": "Intermedio",
-      "main": 0
+      "main": 1
     },
     {
       "id": 13,
@@ -218,7 +218,7 @@
     },
     {
       "id": 14,
-      "name": "git",
+      "name": "Git",
       "core": "Tecnologías",
       "percentage": 60,
       "level": "Intermedio",
