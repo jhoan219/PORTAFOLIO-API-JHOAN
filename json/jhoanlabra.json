@@ -10,7 +10,7 @@
     "description": "Desarrollador Web Frontend con la biblioteca React. Egresado en Computación e informática en Cibertec, apasionado en análisis y programación, cuento con experiencia en logística, comprometido con el trabajo, con capacidad para trabajar en equipo y adaptarme a entornos dinámicos, con capacidad de análisis y resolución de problemas. Busco seguir creciendo profesionalmente y desarrollar mis habilidades.. Apasionado del autoaprendizaje y del código limpio.",
     "urlPhoto": "https://i.postimg.cc/cCWdKkkk/dev.jpg",
     "urlLinkedin": "https://www.linkedin.com/in/jhoan-labra-lopez-16587b214/",
-    "urlCv": "https://drive.google.com/file/d/1WVIT_1ipSfNXEwNf2A4fpj9e5b4ESSTv/view?usp=sharing"
+    "urlCv": "https://docs.google.com/document/d/1iPPPLH-gaI6a9g7VytBSOzrCWOjL89sn/edit?usp=drive_link&ouid=108616184356799257951&rtpof=true&sd=true"
   },
   "technologies": [
     {
@@ -158,7 +158,7 @@
       "core": "Backend",
       "percentage": 30,
       "level": "Básico",
-      "main": 1
+      "main": 0
     },
     {
       "id": 7,
@@ -264,11 +264,14 @@
       "main": 1
     },
     {
+
+
+      
       "id": 3,
       "name": "Página Personal",
       "urlContact": "https://jhoan219.github.io/portafollio-dev/",
       "urlImage": "https://i.postimg.cc/dV5g1rCJ/portafolio-logo.png",
-      "main": 1
+      "main": 0
     }
   ]
 }
